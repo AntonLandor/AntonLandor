@@ -1,18 +1,27 @@
-<h1 align="center">👋 Hello there! 🚀</h1>
+<h1 align="center">🚀👋 Hello, World! 👋🚀</h1>
 
 <p align="center">
-  <em>Don't be fooled by the low contribution count!</em>
-  I do almost all my work outside of GitHub.
+  <img src="https://media.giphy.com/media/PSKAppO2LH56w/giphy.gif" height="200" alt="Brazil dog dance">
+  <img src="https://i.imgur.com/0I3mowz.gif" height="200" alt="CatJam">
 </p>
 
 <p align="center">
-  Check out my website: <a href="https://landor.dev/">landor.dev</a>
+  <samp>
+    Don't let GitHub's squares fool you<br>
+    I do almost all my work outside of GitHub
+  </samp>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/PSKAppO2LH56w/giphy.gif" height="250" alt="Brazil dog dance">
-  <img src="https://i.imgur.com/0I3mowz.gif" height="250" alt="CatJam">
-</div>
 <p align="center">
-  <a href="mailto:anton.fredrik.landor@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/anton-landor/">LinkedIn</a> | <a href="https://twitter.com/AntonLandor">Twitter</a>
+  🌐 Visit my website: 
+  <a href="https://landor.dev/">landor.dev</a> 🌐
+</p>
+
+<hr>
+
+<p align="center">
+  Let's connect 🤝<br>
+  <a href="mailto:anton.fredrik.landor@gmail.com" style="color: #E63946; text-decoration: none; font-weight: bold;">Email</a> • 
+  <a href="https://www.linkedin.com/in/anton-landor/" style="color: #457B9D; text-decoration: none; font-weight: bold;">LinkedIn</a> • 
+  <a href="https://twitter.com/AntonLandor" style="color: #1D3557; text-decoration: none; font-weight: bold;">Twitter</a>
 </p>
