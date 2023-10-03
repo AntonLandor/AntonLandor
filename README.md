@@ -10,8 +10,8 @@
 </p>
 
 <div align="center" justify="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt6Zm95eTBmMXQ3YzN1ZWRodmEwcW10Nmw1MTR6NDM0eHhidWk2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jpbnoe3UIa8TU8LM13/giphy-downsized.gif" height="250" alt="Fun GIF">
-  <img src="https://media.giphy.com/media/PSKAppO2LH56w/giphy.gif" height="250" alt="Fun GIF">
+  <img src="https://media.giphy.com/media/PSKAppO2LH56w/giphy.gif" height="250" alt="Brazil dog dance">
+  <img src="https://i.imgur.com/0I3mowz.gif" height="250" alt="CatJam">
 </div>
 <p align="center">
   <a href="mailto:anton.fredrik.landor@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/anton-landor/">LinkedIn</a> | <a href="https://twitter.com/AntonLandor">Twitter</a>
