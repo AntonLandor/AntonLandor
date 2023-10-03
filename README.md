@@ -9,7 +9,7 @@
   Check out my website: <a href="https://landor.dev/">landor.dev</a>
 </p>
 
-<div align="center" justify="center">
+<div align="center">
   <img src="https://media.giphy.com/media/PSKAppO2LH56w/giphy.gif" height="250" alt="Brazil dog dance">
   <img src="https://i.imgur.com/0I3mowz.gif" height="250" alt="CatJam">
 </div>
