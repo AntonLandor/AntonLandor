@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">👋 Hello there! 🚀</h1>
 
-<!--
-**AntonLandor/AntonLandor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Don't be fooled by the low contribution count!</em>
+  I do almost all my work outside of GitHub.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Check out my website: <a href="https://landor.dev/">landor.dev</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt6Zm95eTBmMXQ3YzN1ZWRodmEwcW10Nmw1MTR6NDM0eHhidWk2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jpbnoe3UIa8TU8LM13/giphy-downsized.gif" width="250" alt="Fun GIF">
+</p>
+<p align="center">
+  <a href="mailto:anton.fredrik.landor@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/anton-landor/">LinkedIn</a> | <a href="https://twitter.com/AntonLandor">Twitter</a>
+</p>
