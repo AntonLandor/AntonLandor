@@ -17,6 +17,11 @@
   <a href="https://landor.dev/">landor.dev</a> 🌐
 </p>
 
+<p align="center">
+  Consultant <a href="https://www.consid.com/">@Consid</a><br>
+  Doing mostly front-end stuff, but I'm no stranger to back-end work either.
+</p>
+
 <hr>
 
 <p align="center">
