@@ -13,7 +13,7 @@
 <p align="center">
   <samp>
     Don't let GitHub's squares fool you<br>
-    I do almost all my work outside of GitHub
+    I do most of my work outside of GitHub
   </samp>
 </p>
 
