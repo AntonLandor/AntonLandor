@@ -2,7 +2,7 @@
 
 <p align="center">
   Consultant <a href="https://www.consid.com/">@Consid</a><br>
-  Doing mostly front-end stuff, but I'm no stranger to back-end work either.
+  Doing mostly web stuff.
 </p>
 
 <p align="center">
