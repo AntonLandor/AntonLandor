@@ -1,7 +1,7 @@
 <h1 align="center">🚀👋 Hello, World! 👋🚀</h1>
 
 <p align="center">
-  Consultant <a href="https://www.consid.com/">@Consid</a><br>
+  Founding Engineer <a href="https://github.com/puzzlr-co">@puzzlr</a><br>
   Doing mostly web stuff.
 </p>
 
